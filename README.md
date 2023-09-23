@@ -17,7 +17,7 @@ Estoy entusiasmado por aprender y aplicar mis habilidades en proyectos desafiant
 
 ## Contacto
 - 📧 Puedes contactarme a través de mi correo electrónico: manuelsbejar1598 @gmail.com
-- 💼 Conéctame en [LinkedIn](www.linkedin.com/in/manuel-steven-bejar-bonifacio-9b7783254)
+- 💼 Conéctame en [LinkedIn](https://www.linkedin.com/in/manuel-steven-bejar-bonifacio-9b7783254/)
 
 ¡Espero con interés trabajar en proyectos emocionantes y aprender de la comunidad de desarrolladores!
 
