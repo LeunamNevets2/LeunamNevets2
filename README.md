@@ -1,11 +1,8 @@
 # ¡Hola, soy Manuel Bejar! 👋
 
-Soy un estudiante de ingeniería en software con una pasión por la analítica de datos, la minería de datos, el IoT, la ciberseguridad y la programación en Python y C++.
-Estoy entusiasmado por aprender y aplicar mis habilidades en proyectos desafiantes y colaborativos.
-
 ## Sobre mí
-- 📚 Actualmente soy estudiante de ingeniería en software en la UNMSM en Peru.
-- 💼 Buscando oportunidades de pasantía o trabajo relacionadas con la analítica de datos, minería de datos, IoT, ciberseguridad o desarrollo de software.
+- 📚 Soy bachiller de ingeniería en software.
+- 💼 Analista de software en una consultora local.
 - 🌐 Me encanta explorar nuevas tecnologías y aprender de forma constante.
 
 ## Habilidades
@@ -16,7 +13,6 @@ Estoy entusiasmado por aprender y aplicar mis habilidades en proyectos desafiant
 
 
 ## Contacto
-- 📧 Puedes contactarme a través de mi correo electrónico: manuelsbejar1598 @gmail.com
 - 💼 Conéctame en [LinkedIn](https://www.linkedin.com/in/manuel-steven-bejar-bonifacio-9b7783254/)
 
 ¡Espero con interés trabajar en proyectos emocionantes y aprender de la comunidad de desarrolladores!
