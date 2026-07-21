@@ -1,15 +1,23 @@
-# ¡Hola, soy Manuel Bejar! 👋
+Manuel Bejar
+Perfil Profesional
 
-## Sobre mí
-- 📚 Soy bachiller de ingeniería en software.
-- 💼 Analista de software en una consultora local.
-- 🌐 Me encanta explorar nuevas tecnologías y aprender de forma constante.
+Bachiller en Ingeniería de Software y Analista de Software con experiencia en el diseño y desarrollo de soluciones basadas en Inteligencia Artificial y automatización de procesos de negocio. Actualmente me especializo en la creación de agentes de IA, integración de modelos de lenguaje (LLMs) y desarrollo de arquitecturas orientadas a la optimización de procesos empresariales.
 
-## Habilidades
-- 💻 **Lenguajes de Programación:** Python, C++
-- 📊 **Analítica de Datos y Minería de Datos:** En campos de ETLs y datawarehounsing para proyectos de BI.
-- 🌐 **MySQL:** Manejo de BD en Workbench , Xaamp + PHP y SQL server managment studio.
-- 🔐 **React:** Nivel basico con react de forma freelancer para el desarrollo y mantenimiento de plataformas web
+Me interesa desarrollar soluciones escalables que combinen ingeniería de software, automatización e inteligencia artificial para generar valor en entornos corporativos.
+
+Áreas de Especialización
+Desarrollo de agentes de Inteligencia Artificial (LLMs).
+Automatización de procesos de negocio.
+Arquitectura y desarrollo de software.
+Ingeniería de datos, procesos ETL y Business Intelligence.
+Diseño y optimización de bases de datos SQL.
+Tecnologías
+
+Lenguajes: Python, C++, SQL.
+
+Bases de Datos: SQL Server y MySQL.
+
+Herramientas y Tecnologías: Git, React,integración de APIs y desarrollo de aplicaciones empresariales.
 
 
 ## Contacto
